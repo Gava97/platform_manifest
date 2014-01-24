@@ -3,7 +3,7 @@
 
   <remote  name="aosp" fetch="https://android.googlesource.com/" />
   <remote  name="tfp" fetch="https://github.com/thefreaxproject/" />
-  <default revision="refs/tags/android-4.4.1_r1" remote="aosp" sync-j="4" />
+  <default revision="refs/tags/android-4.4.2_r1" remote="aosp" sync-j="4" />
 
   <project path="manifest" name="platform_manifest" remote="tfp" revision="master" />
 
