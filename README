@@ -4,5 +4,5 @@ $ curl https://dl-ssl.google.com/dl/googlesource/git-repo/repo > ~/.bin/repo
 $ chmod a+x ~/.bin/repo
 $ mkdir $WHATEVER-NAME-YOU-CHOOSE
 $ cd $WHATEVER-NAME-YOU-CHOOSE
-$ repo init -u https://github.com/MoltenMotherBoard/platform -b master
+$ repo init -u https://github.com/thefreaxproject/platform -b master
 $ repo sync
